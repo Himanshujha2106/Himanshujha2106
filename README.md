@@ -22,6 +22,6 @@ Here are a few highlights of my projects:
 
 - 📫 Email: himanshujha2106@gmail.com
 - 💼 LinkedIn: [Himanshu Jha](https://www.linkedin.com/in/himanshu-jha-35b32b238/)
-- 🌐 Portfolio: [himanshujha.tech](https://www.himanshujha.xyz)
+- 🌐 Portfolio: [himanshujha.xyz](https://www.himanshujha.xyz)
 
 Feel free to explore my repositories and reach out to me if you have any questions, suggestions, or collaboration opportunities. Let's connect and build something awesome together!
